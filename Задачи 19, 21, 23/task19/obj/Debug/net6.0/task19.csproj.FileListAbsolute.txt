@@ -1,0 +1,15 @@
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\bin\Debug\net6.0\task19.exe
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\bin\Debug\net6.0\task19.deps.json
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\bin\Debug\net6.0\task19.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\bin\Debug\net6.0\task19.pdb
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\refint\task19.dll
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.pdb
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\Users\Sotosh\OneDrive\Рабочий стол\Учёба\Знакомство с  языками программирования\Семинар 2 С#\task19\obj\Debug\net6.0\ref\task19.dll
